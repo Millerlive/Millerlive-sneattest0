@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Electronic",
+    "usage": "Mobile, Earbuds, TV",
+    "amount": 82500,
+    "unit": "USD",
+    "img": "avatar-apple-iPhone.png"
+  },
+  {
+    "name": "Fashion",
+    "usage": "Tshirt, Jeans, Shoes",
+    "amount": 27068,
+    "unit": "USD",
+    "img": "avatar-xiaomi-band.png"
+  },
+  {
+    "name": "Transfer",
+    "usage": "Refund",
+    "amount": 849,
+    "unit": "USD",
+    "img": "chart.png"
+  },
+  {
+    "name": "Sports",
+    "usage": "Football, Cricket Kit",
+    "amount": -74.12,
+    "unit": "USD",
+    "img": "avatar-beats-headphone.png"
+  }
+]

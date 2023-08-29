@@ -1,0 +1,128 @@
+[
+  {
+    "name": "chrome",
+    "type": "browser",
+    "visits": "8.29k",
+    "percent": 64.91,
+    "img": "chrome.png"
+  },
+  {
+    "name": "safari",
+    "type": "browser",
+    "visits": "1.29k",
+    "percent": 19.03,
+    "img": "safari.png"
+  },
+  {
+    "name": "firefox",
+    "type": "browser",
+    "visits": "328",
+    "percent": 3.26,
+    "img": "firefox.png"
+  },
+  {
+    "name": "edge",
+    "type": "browser",
+    "visits": "142",
+    "percent": 3.98,
+    "img": "edge.png"
+  },
+  {
+    "name": "opera",
+    "type": "browser",
+    "visits": "85",
+    "percent": 2.12,
+    "img": "opera.png"
+  },
+  {
+    "name": "brave",
+    "type": "browser",
+    "visits": "36",
+    "percent": 1.06,
+    "img": "brave.png"
+  },
+  {
+    "name": "windows",
+    "type": "system",
+    "visits": "475.26k",
+    "percent": 61.5,
+    "img": "windows.png"
+  },
+  {
+    "name": "mac",
+    "type": "system",
+    "visits": "89.12k",
+    "percent": 15.67,
+    "img": "mac.png"
+  },
+  {
+    "name": "ubuntu",
+    "type": "system",
+    "visits": "38.68k",
+    "percent": 5.82,
+    "img": "ubuntu.png"
+  },
+  {
+    "name": "linux",
+    "type": "system",
+    "visits": "30.27k",
+    "percent": 5.03,
+    "img": "linux.png"
+  },
+  {
+    "name": "chrome",
+    "type": "system",
+    "visits": "8.34k",
+    "percent": 3.25,
+    "img": "chrome.png"
+  },
+  {
+    "name": "cent",
+    "type": "system",
+    "visits": "2.25k",
+    "percent": 1.76,
+    "img": "cent.png"
+  },
+  {
+    "name": "usa",
+    "type": "country",
+    "visits": "87.24k",
+    "percent": 38.12,
+    "img": "usa.png"
+  },
+  {
+    "name": "brazil",
+    "type": "country",
+    "visits": "42.69k",
+    "percent": 28.23,
+    "img": "brazil.png"
+  },
+  {
+    "name": "india",
+    "type": "country",
+    "visits": "12.58k",
+    "percent": 13.82,
+    "img": "india.png"
+  },
+  {
+    "name": "australia",
+    "type": "country",
+    "visits": "4.13k",
+    "percent": 12.72,
+    "img": "australia.png"
+  },
+  {
+    "name": "china",
+    "type": "country",
+    "visits": "2.21k",
+    "percent": 7.11,
+    "img": "china.png"
+  },
+  {
+    "name": "france",
+    "type": "country",
+    "visits": "1.56k",
+    "percent": 6.59,
+    "img": "france.png"
+  }
+]

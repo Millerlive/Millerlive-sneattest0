@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Paypal",
+    "usage": "Send Money",
+    "amount": 82.6,
+    "unit": "USD",
+    "img": "paypal.png"
+  },
+  {
+    "name": "Wallet",
+    "usage": "Mac'D",
+    "amount": 270.68,
+    "unit": "USD",
+    "img": "wallet.png"
+  },
+  {
+    "name": "Transfer",
+    "usage": "Refund",
+    "amount": 675.95,
+    "unit": "USD",
+    "img": "chart.png"
+  },
+  {
+    "name": "Credit Card",
+    "usage": "Ordered Food",
+    "amount": -74.12,
+    "unit": "USD",
+    "img": "credit-card.png"
+  },
+  {
+    "name": "Wallet",
+    "usage": "Starbucks",
+    "amount": 203.33,
+    "unit": "USD",
+    "img": "wallet.png"
+  },
+  {
+    "name": "Mastercard",
+    "usage": "Ordered Food",
+    "amount": -252.33,
+    "unit": "USD",
+    "img": "atm-card.png"
+  }
+]
